@@ -1,7 +1,5 @@
 # Bank statement Analysis
 
-By- Azfar Lari
-
 **Files**
 1. extract.py: contains functions for extracting data from pdfs of diffetent banks(currently, Yes Bank and Allahabad Bank)
 
