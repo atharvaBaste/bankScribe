@@ -1,5 +1,10 @@
 # Bank statement Analysis
 
+
+Bank statements are a crucial source of information for monitoring financial transactions, but manual processing of bank statements is susceptible to errors, and traditional accounting software may not provide detailed insights into transactions. This research project proposes a solution that leverages advanced machine learning and natural language processing techniques to extract relevant information from bank statements and accurately classify transactions.
+
+The users can classify transactions into debit and credit categories and identify transactions into specific categories based on user-defined rules. Additionally, the platform provides summaries of transactions, including the number of transactions, minimum and maximum balances, minimum and maximum debits, and maximum credits.
+
 **Files**
 1. extract.py: contains functions for extracting data from pdfs of diffetent banks(currently, Yes Bank and Allahabad Bank)
 
